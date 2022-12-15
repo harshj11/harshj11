@@ -1,16 +1,23 @@
-### Hi there 👋
+## :sparkles:It's never too late!
 
-<!--
-**harshj11/harshj11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+_Just one more try!_
 
-Here are some ideas to get you started:
+### Thanks for landing here!:slightly_smiling_face:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hello, I am **Harsh**, a self motivated individual, who enjoys learning latest technologies and loves to work on building full-stack applications, currently working as a Software Engineer at **_Capgemini_**.
+
+## About:
+<img 
+  align='right'
+  src='https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47crdvjsofq559ypt6om86b8o1rjy9ai3zy7alca8v&rid=200.webp&ct=g'>
+
+- :computer:Currently working on **JSR Batches**, a batch processing framework that works in three phases: **_Read, Process, Write_**.
+- :eyes:Looking forward to work on creating full-stack applications.
+- 😄Enjoys building user interfaces using **_ReactJS_**, have hands on experience of writing server side code using **_expressJS_** and **_SpringBoot_**.
+- 🌱Exploring React and Express, building **WeKart** to understand how a different components of an E-Commerce application interact with each other.
+- :bulb:Curious to learn about how complex backend systems work to present a smooth experience to millions of users.
+- :mortar_board:Graduated in the year 2021, **BTech** in CSE.
+
+## Let's connect:
+
+<a href="https://www.linkedin.com/in/harsh-jain-b9691b1b1/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
